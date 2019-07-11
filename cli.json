@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "python": "3.0.0"
+  },
+  "commands": [
+    {
+      "name": "global-traffic-manager",
+      "aliases": ["gtm"],
+      "version": "0.1.0",
+      "description": "An example Akamai CLI command for GTM written in Python"
+    }
+  ]
+}
