@@ -13,7 +13,7 @@ Script Functions:
 Installation is done via `akamai install`:
 
 ```
-$ akamai install global-traffic-manager
+$ akamai install https://github.com/jaescalo/cli-global-traffic-manager
 ```
 
 Running this will run the system `python setup.py` automatically.
