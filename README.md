@@ -26,7 +26,7 @@ To update to the latest version:
 $ akamai update global-traffic-manager
 ```
 
-## USAGE:
+## Usage:
 ```
 usage: akamai gtm [--version]  ...
 
